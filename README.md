@@ -1,2 +1,2 @@
 # MobileBertByPaddle
-飞桨论文复现
+使用Paddle复现MobileBERT。
